@@ -1,0 +1,28 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe assembly's progress.
+The file is located at C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe assembly's progress.
+The file is located at C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\felip\Desktop\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe.
+Arquivo está localizado em C:\Users\felip\Desktop\TestWindowService\TestWindowService\bin\Debug\TestWindowService.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\felip\Desktop\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe.
+Arquivo está localizado em C:\Users\felip\Desktop\TestWindowService\TestWindowService\bin\Debug\TestWindowService.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.

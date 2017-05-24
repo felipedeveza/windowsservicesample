@@ -1,0 +1,16 @@
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe.config
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.pdb
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\obj\Debug\TestWindowService.csprojResolveAssemblyReference.cache
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\obj\Debug\TestWindowService.exe
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\obj\Debug\TestWindowService.pdb
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\obj\Debug\TestWindowService.ProjectInstaller.resources
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\obj\Debug\TestWindowService.csproj.GenerateResource.Cache
+C:\Users\felip\Desktop\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe.config
+C:\Users\felip\Desktop\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe
+C:\Users\felip\Desktop\TestWindowService\TestWindowService\bin\Debug\TestWindowService.pdb
+C:\Users\felip\Desktop\TestWindowService\TestWindowService\obj\Debug\TestWindowService.ProjectInstaller.resources
+C:\Users\felip\Desktop\TestWindowService\TestWindowService\obj\Debug\TestWindowService.csproj.GenerateResource.Cache
+C:\Users\felip\Desktop\TestWindowService\TestWindowService\obj\Debug\TestWindowService.exe
+C:\Users\felip\Desktop\TestWindowService\TestWindowService\obj\Debug\TestWindowService.pdb
+C:\Users\felip\Desktop\TestWindowService\TestWindowService\obj\Debug\TestWindowService.csprojResolveAssemblyReference.cache

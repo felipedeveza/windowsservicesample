@@ -1,0 +1,26 @@
+﻿Installing assembly 'C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe
+Instalando o assembly 'C:\Users\felip\Desktop\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\Desktop\TestWindowService\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = C:\Users\felip\Desktop\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe
+Instalando o serviço Test Window Service...
+Serviço Test Window Service foi instalado com êxito.
+Criando a origem de EventLog Test Window Service no log Application...
+Confirmando o assembly 'C:\Users\felip\Desktop\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\felip\Desktop\TestWindowService\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = C:\Users\felip\Desktop\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe
